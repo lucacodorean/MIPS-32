@@ -6,4 +6,8 @@ created during the Computer Architecture laboratory at Technical University of C
 of Dr. Eng. Constantin Nandra. 
 
 This repository is intended to provide a better understanding of my abilities in developing a MIPS using a hardware
-description language such as VHDL.
+description language such as VHDL. Please read the license attached to the repository before reading its contents.
+
+The repository contains two implementations of the project as it follows:
+1. MIPS single cycle; and
+2. MIPS pipeline
